@@ -2,17 +2,11 @@
 
 This folder holds the exported slide deck for the training.
 
-## Add the exported deck here
+## The deck
 
-1. Open the deck "Phishing Awareness Training" in Claude (the slide editor it was created in).
-2. Use the deck's download option and choose **PDF** (best for viewing on GitHub) and, if you want an editable copy, **PowerPoint (.pptx)**.
-3. Save the files in this folder, for example:
-   - `Phishing_Awareness_Training.pdf`
-   - `Phishing_Awareness_Training.pptx`
+**[Phishing_Awareness_Training.pdf](Phishing_Awareness_Training.pdf)** is the full 18-slide deck. GitHub shows it directly in the browser, so no download is needed.
 
-GitHub displays PDF files directly in the browser, so reviewers can read the slides without downloading anything.
-
-> The quiz answers on slides 12 to 16 are revealed on a click in presentation mode. Check how they look in your exported file before sharing it: the live deck is best for presenting, and the PDF for reading.
+In the PDF, every quiz answer (slides 12 to 16) is shown. In the live presentation they are revealed on a click. Speaker notes are not part of the PDF; the full text of every slide with its notes is in [../docs/TRAINING_MODULE.md](../docs/TRAINING_MODULE.md).
 
 ## Slides
 
